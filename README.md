@@ -13,6 +13,6 @@
  <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
-<i>Let's Connect:</i><br>
+
 
 <a href="https://www.linkedin.com/in/gabriela-beatriz-pardo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

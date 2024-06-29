@@ -1,9 +1,13 @@
 
-![portada]()
-## :hammer:Funcionalidades del proyecto
+<h1 align="center">Hola! Soy Gabriela Beatriz Pardo 👋 </h1>
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2
+### Aca podremos apreciar mi desarrollo en este desafio de Alura Challengue, en la especializacion de Backend :computer:
+<br />
 
-## Autora
+#  Conversor de monedas
 
-| [<img src="img/foto" width=115><br><sub>Gabriela Beatriz Pardo</sub>]((https://github.com/GBPardoGabrielaBeatriz)) 
+<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+
+
+
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />

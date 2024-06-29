@@ -15,8 +15,6 @@ public class Main {
 
         try {
             var moneda= tipeo.nextInt();
-            //GeneradorDeArchivo generador=new GeneradorDeArchivo();
-            //generador.guardarJson(conversion);
             if(moneda==7){
                 break;
             }
@@ -51,13 +49,9 @@ public class Main {
                             System.out.println("Opción inválida. Intente nuevamente.");
                             continue;
                     }
-
-
             System.out.println("Ingrese el valor a convertir");
                     double valor=tipeo.nextDouble();
                     String resultadoJson=consulta.conversorMonedas(monedaBase,monedaAConvertir, valor);
-
-
 
         }catch (NumberFormatException e ){
             System.out.println("Moneda no encontrada "+ e.getMessage());;

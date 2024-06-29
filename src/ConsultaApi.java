@@ -21,11 +21,8 @@ public class ConsultaApi {
         HttpResponse<String> response = client
                 .send(request, HttpResponse.BodyHandlers.ofString());
         String json = response.body();
-        //System.out.println(json);
        try {
             TipoMoneda tipoMoneda = gson.fromJson(json, TipoMoneda.class);
-            //System.out.println("Detalle : "+tipoMoneda);
-
            double tasaConversion = Double.parseDouble(tipoMoneda.conversion_rate());
            double valorConvertido=valor * tasaConversion;
            System.out.println("*********************************");

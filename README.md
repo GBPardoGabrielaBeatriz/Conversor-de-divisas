@@ -4,7 +4,7 @@
 ### Aca podremos apreciar mi desarrollo en este desafio de Alura Challengue, en la especializacion de Backend :computer:
 <br />
 
-#  Conversor de monedas
+# :star:  Conversor de monedas
 
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
